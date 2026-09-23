@@ -1,3 +1,7 @@
 hello world
+<<<<<<< HEAD
 
 
+=======
+this line is from issue1 branch 
+>>>>>>> issue1
